@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋,There I'm Hammed Akinwale</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/hammed's-banner.jpeg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/hammedakinwale/hammedakinwale/main/hammed's-banner.jpeg"> </div>
 
 <h3 align="center">I'm Cloud/DevOps Engineer, I bridge the gap between development and operation, orchestrating scalable infrastructure through automation and embracing the collaborative spirit of DevOps.ia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/DevOps-gif.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hammedakinwale/hammedakinwale/main/DevOps-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammedakinwale&label=Profile%20views&color=0e75b6&style=flat" alt="hammedakinwale" /> </p>
 
