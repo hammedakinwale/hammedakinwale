@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops principles**
+- 🌱 I’m constantly learning and developing in **DevSecOps & Cloud Devops principles**
 
 - 👯 I’m looking to collaborate on **on devops and cloud projects and also encourage their principlesencourage devops and cloud engineering principles**
 
