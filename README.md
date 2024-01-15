@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,There I'm Hammed Akinwale</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/hammedakinwale/hammedakinwale/main/hammed's-banner.jpeg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/hammedakinwale/hammedakinwale/main/hyt.jpg"> </div>
 
 <h3 align="center">I'm Cloud/DevOps Engineer, I bridge the gap between development and operation, orchestrating scalable infrastructure through automation and embracing the collaborative spirit of DevOps.ia</h3>
 
