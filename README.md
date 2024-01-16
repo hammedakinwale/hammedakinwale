@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,There I'm Hammed Akinwale</h1>
 
-<h3 align="center">I'm Cloud/DevOps Engineer, I bridge the gap between development and operation, orchestrating scalable infrastructure through automation and embracing the collaborative spirit of DevOps.ia</h3>
+<h3 align="center">I'm Cloud/DevOps Engineer, I bridge the gap between development and operation, orchestrating scalable infrastructure through automation and embracing the collaborative spirit of DevOps</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hammedakinwale/hammedakinwale/main/DevOps-gif.gif">
 
