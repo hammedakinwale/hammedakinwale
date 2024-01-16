@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammedakinwale&label=Profile%20views&color=0e75b6&style=flat" alt="hammedakinwale" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hammedakinwale/hammedakinwale/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hammedakinwale/hammedakinwale/main/DevOps-gif.gif">
 
 - 🔭 I’m currently working on **projects**
 
