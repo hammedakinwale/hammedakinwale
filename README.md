@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **projects**
 
-- 🌱 I’m continously learning **DevSecOps & Cloud Devops and their principles**
+- 🌱 I’m Always learning **DevSecOps & Cloud Devops and their principles**
 
 - 👯 I’m looking to collaborate on **on devops and cloud projects and also encourage their principlesencourage devops and cloud engineering principles**
 
@@ -33,7 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammedakinwale&show_icons=true&locale=en" alt="hammedakinwale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammedakinwale&" alt="hammedakinwale" /></p>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hammedakinwale&limit=5&theme=flat&combine_all_yearly_contributions=true)
