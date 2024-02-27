@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,There I'm Hammed Akinwale</h1>
-<h3 align="center">I'm a DevOps Engineer, I bridge the gap between development and operation, orchestrating scalable infrastructure through automation and embracing the collaborative spirit of DevOps.ia</h3>
+<h3 align="center">I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure Automation and Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammedakinwale&label=Profile%20views&color=0e75b6&style=flat" alt="hammedakinwale" /> </p>
 
