@@ -86,8 +86,8 @@ Long-term, I'm building toward **AI infrastructure** — actively studying HPC, 
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hammedakinwale&show_icons=true&theme=default&hide_title=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammedakinwale&layout=compact" height="165" />
+<img src="./profile/stats.svg" height="165" alt="Hammed's GitHub stats" />
+<img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 </p>
 
 ---
